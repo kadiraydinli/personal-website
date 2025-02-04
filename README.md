@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+https://github.com/kadiraydinli/kadiraydinli.com/assets/screen-recording.mov
+
 ## Getting Started
 
 First, run the development server:
