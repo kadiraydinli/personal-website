@@ -1,0 +1,43 @@
+export const FUNNY_EXIT_MESSAGES = [
+  "Initiating emergency escape sequence... Just kidding! 🚀",
+  "Breaking up with you is hard... *dramatic exit* 💔",
+  "Plot twist: This tab is about to vanish! 🎭",
+  "Warning: Terminal will self-destruct in 3... 2... 1... 💥",
+  "Hasta la vista, baby! I'll be back... maybe 🤖",
+  "Error 404: Terminal not found (because you're closing it, duh!) 🤷‍♂️",
+  "Breaking News: Local terminal decides to take a nap 😴",
+  "Mission accomplished! Time to moonwalk outta here 🕴️",
+  "Roses are red, violets are blue, this terminal's closing, goodbye to you! 🌹",
+  "CTRL+W would've been faster, but I appreciate the formal goodbye! 🎩",
+  "I don't feel so good, Mr. Stark... *fades away* 👋",
+  "Alt+F4 is my middle name! 😎",
+  "Executing Order 66... Terminal shutdown imminent 🎭",
+  "Task failed successfully: Terminal is closing 🎉",
+  "Beam me up, Scotty! Terminal out! 🖖",
+  "To infinity and beyond... *closes dramatically* 🚀",
+  "This is not a bug, it's a feature - Terminal vanishing in 3... 2... 1... 🪄",
+  "I'll never let go, Jack! *lets go anyway* 🚢",
+  "May the Force be with you... always! *terminal fades to black* ⭐",
+  "Game Over! Insert coin to continue... 🎮"
+];
+
+export const FUNNY_SUDO_MESSAGES = [
+  "Nice try! But I'm not that easy to hack 🔒",
+  "sudo make me a sandwich? How about no! 🥪",
+  "Access denied: My manager is on vacation 😎",
+  "Error 418: I'm a teapot, not a sudo machine ☕",
+  "Sudo? More like Pseudo-permissions! 🎭",
+  "Sorry, you're not in the cool kids club yet 😏",
+  "Searching for admin powers... Loading... Failed! 🔄",
+  "Sudo request denied: Mercury is in retrograde 🌠",
+  "You shall not pass! (without proper permissions) 🧙‍♂️",
+  "Error 42: The answer to life, but not to sudo 🌌",
+  "Sudo powers loading... Task failed successfully! 🎯",
+  "Your sudo powers are in another castle! 🏰",
+  "I find your lack of permissions disturbing 🦹",
+  "Sudo or sudo not, there is no try 🎭",
+  "Access denied: Have you tried turning it off and on again? 💻",
+  "Knock knock! Who's there? Not sudo permissions! 🚪",
+  "With great power comes... no sudo access! 🕷️",
+  "Error 007: No license to sudo 🕴️"
+];
