@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-https://github.com/kadiraydinli/kadiraydinli.com/assets/screen-recording.mov
+[https://github.com/kadiraydinli/kadiraydinli.com/assets/screen-recording.mov](https://github.com/user-attachments/assets/13d2a6c5-074d-4b38-a329-e7d3cbc3238f)
 
 ## Getting Started
 
